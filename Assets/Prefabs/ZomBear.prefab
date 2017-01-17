@@ -233,7 +233,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timeBetweenAttacks: 0.5
-  attackDamage: 10
+  attackDamage: 15
 --- !u!114 &114767907305769066
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -259,8 +259,8 @@ MonoBehaviour:
   startingHealth: 100
   currentHealth: 0
   sinkSpeed: 2.5
-  scoreValue: 10
-  deathClip: {fileID: 0}
+  scoreValue: 15
+  deathClip: {fileID: 8300000, guid: 62366b8d2c37a49dca550841c741317f, type: 3}
 --- !u!135 &135544609932178066
 SphereCollider:
   m_ObjectHideFlags: 1
