@@ -1,10 +1,12 @@
 ﻿<Properties StartupConfiguration="{02E5D348-A21C-E434-A820-0B467B882ACB}|Unit Tests">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player/PlayerHealth.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player/PlayerMovement.cs">
     <Files>
       <File FileName="Assets/Scripts/Enemy/EnemyHealth.cs" Line="54" Column="12" />
       <File FileName="Assets/Scripts/Enemy/EnemyAttack.cs" Line="51" Column="23" />
       <File FileName="Assets/Scripts/Player/PlayerShooting.cs" Line="78" Column="53" />
       <File FileName="Assets/Scripts/Player/PlayerHealth.cs" Line="72" Column="1" />
+      <File FileName="Assets/Scripts/Enemy/EnemyMovement.cs" Line="30" Column="9" />
+      <File FileName="Assets/Scripts/Player/PlayerMovement.cs" Line="57" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
